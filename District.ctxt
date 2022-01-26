@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=District
+comment1.params=districtID
+comment1.target=District(int)
+comment2.params=school
+comment2.target=void\ addSchool(School)
+comment3.params=school
+comment3.target=void\ removeFirstSchool(School)
+comment4.params=school
+comment4.target=void\ removeSchool(School)
+comment5.params=numOfSchools
+comment5.target=void\ testAddSchools(int)
+comment6.params=
+comment6.target=void\ printAllStudents()
+comment6.text=Goal\:\ Create\ a\ method\ that\ prints\ out\ EVERY\ student's\ name\ and\ ID\ number\r\n\ \r\n\ <Student's\ name>\:\ SchoolID\ \:\ StudentID\r\n\ Sample\:\r\n\ "Test"\:\ 1\ \:\ 1\r\n
+comment7.params=school
+comment7.target=void\ addFirstSchool(School)
+numComments=8
